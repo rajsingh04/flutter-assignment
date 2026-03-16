@@ -81,6 +81,6 @@ Refer to the Flutter docs for additional platforms and deployment details.
 
 ## GitHub Repository
 ```text
-https://github.com/rajsingh04/flutter_assignment
+https://github.com/rajsingh04/flutter-assignment
 ```
 
